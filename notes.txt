@@ -1,0 +1,18 @@
+Learning DSA with python.
+
+Algorithm: 
+	- set of steps to solve a problem
+	- clear problem statement
+	- divide problem into a small steps -> and solve that
+	- must produce result
+	- take only finite time
+
+Good Algorithm:
+	i) Correctness - Algorithm terminates input,prove with maths
+	ii) Efficiency - Measured by time,space.
+				a) time complexity - how long to take complete task
+				b) space complexity - amount of space taken for task
+
+Linear search:
+	sequentially search one by one.
+
