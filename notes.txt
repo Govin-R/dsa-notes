@@ -7,6 +7,7 @@ Algorithm:
 	- must produce result
 	- take only finite time
 
+
 Good Algorithm:
 	i) Correctness - Algorithm terminates input,prove with maths
 	ii) Efficiency - Measured by time,space.
